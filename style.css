@@ -1,0 +1,75 @@
+.nombre{
+    display: flex;
+    justify-content: centers;
+}
+.a{
+    
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin: 15px;
+}
+.ca{
+    display:flex;
+    justify-content: center;
+}
+.l{
+    background-color: black;
+    height: 20px;
+    width: 20px;;   
+}
+.v
+{
+    background-color: #f1f1f1;
+    height: 20px;
+    width: 20px;;   
+}
+.mo{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.som{
+    height: 25px;
+    width: 100px;
+    background-color: rgb(230, 166, 89);
+    border: 3px solid black;
+}
+.cab{
+    height: 90px;
+    width: 90px;
+    background-color: rgb(230, 166, 89);
+    border: 3px solid black;
+    justify-content: center;
+    align-items: center;
+}
+.cab{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;  
+    align-items: center;
+}
+.cara{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around; 
+}
+.ojo{
+    width: 20px;
+    height: 20px;
+    background-color: rgb(230, 166, 89);
+    border: 3px solid black;
+}
+.nar{
+    width: 20px;
+    height: 40px;
+    background-color: rgb(230, 166, 89);
+    border: 3px solid black;
+}
+.boc{
+    width: 35px;
+    height: 15px;
+    background-color: rgb(230, 166, 89);
+    border: 3px solid black;
+}
